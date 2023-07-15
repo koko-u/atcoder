@@ -1,4 +1,6 @@
 //! # We Love Golf
+//!
+//! https://atcoder.jp/contests/abc165/tasks/abc165_a
 
 use proconio::input;
 

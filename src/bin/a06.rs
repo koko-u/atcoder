@@ -1,5 +1,6 @@
 //! # Some sums
 //!
+//! https://atcoder.jp/contests/abc083/tasks/abc083_b
 
 use text_io::read;
 fn main() {

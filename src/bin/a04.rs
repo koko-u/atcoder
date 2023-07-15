@@ -1,5 +1,6 @@
 //! # Serval vs Monster
 //!
+//! https://atcoder.jp/contests/abc153/tasks/abc153_a
 
 use text_io::read;
 fn main() {

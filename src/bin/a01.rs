@@ -1,4 +1,6 @@
 //! # Welcome to AtCoder
+//!
+//! https://atcoder.jp/contests/practice
 
 use proconio::input;
 
